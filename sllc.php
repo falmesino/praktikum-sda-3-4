@@ -8,7 +8,7 @@
    * 3. 231232028 Falmesino Abdul Hamid
    * 4. ⁠231232021 M Rivaldi Fahru 
    * 5. 231232027 Tegar FB
-   * 6. 
+   * 6. 23123 Farhan
    */
 
   class ItemNode {
