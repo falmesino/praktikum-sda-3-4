@@ -1,5 +1,4 @@
-# Tugas Praktikum SDA 3-4 Kelompok 1
-## ITBS Swadharma
+# Tugas Praktikum SDA 3-4 Kelompok 1 ITBS Swadharma
 
 1. 231232001 Chaerul Figri 
 2. 231232020 Fadhillah Muhammad Wahyudi 
